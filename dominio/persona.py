@@ -2,6 +2,7 @@
 #Quizhpi Aviles Aaron
 #Cmpoverde Yong Esthela
 #Olvera Herrera Shirley
+#Villacis Bohorquez Michael Robert
 class Persona:
     def __init__(self, cedula, nombre, apellido, email, telefono, direccion, numero_libros, activo, carrera):
         self._cedula = cedula
