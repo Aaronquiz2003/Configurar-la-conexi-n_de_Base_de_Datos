@@ -1,0 +1,6 @@
+
+Persona: [Nombre: Pepe Lopez, Cedula: None]
+Persona: [Nombre: Lionel Messi, Cedula: None]
+Persona: [Nombre: Andres cuchetini, Cedula: None]
+Persona: [Nombre: Pedro Perez, Cedula: None]
+Persona: [Nombre: Pablo Perez, Cedula: 0959482461]
