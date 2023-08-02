@@ -2,6 +2,7 @@
 #Quizhpi Aviles Aaron
 #Cmpoverde Yong Esthela
 #Olvera Herrera Shirley
+#Villacis Bohorquez Michael Robert
 from material import Material
 class Revista(Material):
     def __init__(self, codigo, autor, titulo, anio, editorial, disponible, cantidad_disponible, tipo):
