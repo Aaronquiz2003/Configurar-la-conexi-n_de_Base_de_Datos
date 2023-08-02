@@ -2,6 +2,8 @@
 #Quizhpi Aviles Aaron
 #Cmpoverde Yong Esthela
 #Olvera Herrera Shirley
+#Villacis Bohorquez Michael Robert
+
 from dominio.persona import Persona
 class Estudiante(Persona):
     contador_estudiante = 0
