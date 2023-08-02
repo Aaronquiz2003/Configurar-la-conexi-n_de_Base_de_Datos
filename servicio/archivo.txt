@@ -1,6 +1,0 @@
-Persona: [Nombre: Aullador UG, Cedula: None]
-Persona: [Nombre: aullador Ug, Cedula: None]
-Persona: [Nombre: Pepe Lopez, Cedula: None]
-Persona: [Nombre: Lionel Messi, Cedula: None]
-Persona: [Nombre: Andres cuchetini, Cedula: None]
-Persona: [Nombre: Pedro Perez, Cedula: None]
